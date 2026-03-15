@@ -1,0 +1,23 @@
+--- Backend/page.tsx
++++ Frontend/page.tsx
+@@ -237,13 +237,13 @@
+       init();
+       animate();
+ 
+-      return() => {
+-  window.removeEventListener("resize", handleResize);
+-  window.removeEventListener("mousemove", handleMouseMove);
+-  window.removeEventListener("mouseout", handleMouseLeave);
+-  cancelAnimationFrame(animationFrameId);
+-};
++      return () => {
++        window.removeEventListener("resize", handleResize);
++        window.removeEventListener("mousemove", handleMouseMove);
++        window.removeEventListener("mouseout", handleMouseLeave);
++        cancelAnimationFrame(animationFrameId);
++      };
+   }, [theme]);
+ 
+-return <canvas ref={canvasRef} className="absolute inset-0 z-0 opacity-70 pointer-events-none" />;
++  return <canvas ref={canvasRef} className="absolute inset-0 z-0 opacity-70 pointer-events-none" />;
+ };

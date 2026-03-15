@@ -1,0 +1,16 @@
+Faker @ file:///work/buildout/croot/faker_1759973913419/work
+joblib @ file:///home/task_176786728785941/croot/joblib_1767868071713/work
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159258493269/conda-bld/mkl_fft_1761592900924/work
+mkl_random @ file:///home/task_176159293775784/conda-bld/mkl_random_1761592951865/work
+numpy @ file:///home/task_177073255161752/croot/numpy_and_numpy_base_1770732579388/work/dist/numpy-2.4.2-cp314-cp314-linux_x86_64.whl#sha256=ff6f3a8b80cd4adfc707dc6fb13ed1423619449c944b0eddc8db6b41119c3905
+packaging @ file:///home/task_176104874909647/conda-bld/packaging_1761049078203/work
+pandas @ file:///home/task_177064301840472/croot/pandas_1770643073504/work
+python-dateutil @ file:///work/buildout/croot/python-dateutil_1759952394083/work
+scikit-learn @ file:///home/task_176609792973864/croot/scikit-learn_1766097948389/work
+scipy @ file:///work/buildout/croot/scipy_1765202311470/work/dist/scipy-1.16.3-cp314-cp314-linux_x86_64.whl#sha256=4862531fc5d0549379bc2e8985bfba2b9c2400b53f0013cc8a5a4d6117848428
+setuptools==80.10.2
+six @ file:///work/buildout/croot/six_1759952127748/work
+threadpoolctl @ file:///home/task_176436168239220/conda-bld/threadpoolctl_1764361726371/work
+tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
+wheel==0.46.3

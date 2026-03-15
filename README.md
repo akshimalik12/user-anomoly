@@ -160,7 +160,7 @@ This project is open source and available under the [Apache 2.0 License](https:/
 <div align="center">
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yashika--28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashika-28/anomaly_detection)
+[![GitHub](https://img.shields.io/badge/GitHub-akshimalik12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshimalik12/user-anomoly)
 [![Live](https://img.shields.io/badge/🌐_Visit-neurometric--shield.vercel.app-0ea5e9?style=for-the-badge)](https://neurometric-shield.vercel.app/)
 
 </div>
